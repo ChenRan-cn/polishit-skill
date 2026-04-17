@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ChenRan-cn/polishit.skill?style=social)](https://github.com/ChenRan-cn/polishit.skill/stargazers)
 
-> **polish** (抛光) + **shit** (屎) = 给屎抛光
+> **polish** (抛光) + **shit** (屎) = **polishit** (给屎抛光) 
 >
 > 帮打工人把形式主义的"屎"，"雕"成领导想要的"花"。
 
