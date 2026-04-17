@@ -1,5 +1,5 @@
-#**雕屎.skill**
-#**polishit.skill**
+# **雕屎.skill**
+# **polishit.skill**
 
 > **polish** (抛光) + **shit** (屎) = 给屎抛光
 >
