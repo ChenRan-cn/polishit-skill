@@ -1,46 +1,32 @@
-# 雕屎.skill
-## polishit.skill
+## 项目名称释义
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/ChenRan-cn/polishit.skill?style=social)](https://github.com/ChenRan-cn/polishit.skill/stargazers)
+本项目的名称 **"雕屎"** 取自互联网职场黑话 **"屎上雕花"**。
 
-> 一个帮你把"屎"雕成"花"的 AI 生存工具包
-> An AI survival kit that helps you polish "shit" into "flowers."
+**"屎"**：指那些毫无实际价值、纯粹为了满足形式主义要求、消耗打工人生命却不得不完成的文字垃圾工作。包括没人看的周报、千篇一律的通讯稿、自欺欺人的整改报告、歌功颂德的年终总结、格式重于实质的OKR填写。
 
----
+**"雕"**：指打工人被迫练就的一项扭曲而精湛的生存技能——用最小的认知成本，把这些"屎"包装成符合审美标准、能顺利通过审查、甚至还能换来一句"写得不错"的"花"。
 
-## 项目名称释义 / What the Name Means
-
-项目名称释义
-What the Name Means
-
-本项目的名称 “雕屎” 取自 “屎上雕花”。
-The project name "polishit" comes from "polishing a turd."
-
-“屎” ：指那些毫无实际价值、纯粹为了满足上级形式主义要求、消耗打工人生命却不得不完成的文字垃圾工作。包括但不限于：没人看的周报、千篇一律的通讯稿、自欺欺人的整改报告、歌功颂德的年终总结。
-"Shit": The utterly worthless, soul‑draining, mandatory busywork that exists only to satisfy bureaucratic formalism—unread weekly reports, cookie‑cutter press releases, self‑deceptive rectification documents, and glorified year‑end summaries.
-
-“雕” ：指打工人被迫练就的一项扭曲而精湛的生存技能——用最小的认知成本，把这些“屎”包装成符合体制审美、能顺利通过审查、甚至还能换来一句“写的不错”的“花”。
-"Polish": The twisted yet refined survival skill we're forced to master—dressing up that "shit" with minimal cognitive effort so it meets institutional aesthetics, sails through approval, and maybe even earns a "nice work."
-
-雕屎.skill 要做的，不是教你认真对待这些工作（那是对你生命的浪费），而是教你用最短的时间、最标准的姿势，合规地应付过去。
-polishit.skill doesn't teach you to take this busywork seriously (that would be a waste of your life). It teaches you how to get it over with—fast, formulaically, and fully compliant—so you can move on.
-
-为什么叫这个名字？
-Why This Name?
-
-因为我们必须先诚实。
-Because honesty comes first.
-
-我们得承认：那些东西就是屎。只有承认这一点，我们才不会在应付它的时候，误以为自己真的在“创造价值”。
-We have to admit it: that stuff is shit. Only by admitting that can we avoid the delusion that we're actually "creating value" while churning it out.
-
-然后我们才能有技巧地应付。而“雕”这个动作的精髓在于——不投入感情，只投入技巧。
-Only then can we deal with it skillfully. And the essence of "polishing" is this: invest zero emotion, just technique.
+为什么叫这个名字？因为我们必须先诚实——承认那些东西就是屎。只有承认这一点，才不会在应付它的时候误以为自己在"创造价值"。然后才能有技巧地应付。而"雕"的精髓在于：不投入感情，只投入技巧。
 
 ---
 
-## 能干什么| 模块 | 适用场景 | 触发词 |
+<!-- ENGLISH BELOW / What the Name Means -->
+
+## What the Name Means
+
+The project name **"polishit"** comes from the internet workplace slang **"polishing a turd."**
+
+**"Shit"**: The utterly worthless, soul-draining, mandatory busywork that exists only to satisfy bureaucratic formalism — unread weekly reports, cookie-cutter press releases, self-deceptive rectification documents, glorified year-end summaries, and OKR forms where formatting matters more than content.
+
+**"Polish"**: The twisted yet refined survival skill we're forced to master — dressing up that "shit" with minimal cognitive effort so it meets institutional aesthetics, sails through approval, and maybe even earns a "nice work."
+
+Why this name? Because honesty comes first. We have to admit it: that stuff is shit. Only by admitting that can we avoid the delusion that we're actually "creating value" while churning it out. Only then can we deal with it skillfully. And the essence of "polishing" is this: invest zero emotion, just technique.
+
+---
+
+## 能干什么
+
+| 模块 | 适用场景 | 触发词 |
 |------|----------|--------|
 | 通讯稿生成器 | 单位发布工作动态 / 企业宣传新闻稿 | 通讯稿、新闻稿、工作动态 |
 | 周报/月报膨胀器 | 明明没干啥，要写满字数 | 周报、月报、日报 |
